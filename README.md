@@ -9,9 +9,15 @@
 
 - 🔭 I’m currently working on [Redbook.cloud](https://redbook.cloud)
 
+- 🌱 I’m currently learning **React, Node, Express, MongoDB**
+
+- 👯 I’m looking to collaborate on [Redbook.cloud](https://redbook.cloud)
+
+- 🤝 I’m looking for help with [Redcom.cloud](https://redcom.cloud)
+
 - 💬 Ask me about **Php, Laravel, Vue, Nuxt, React, Node**
 
-- 📫 How to reach me **rasel.m.ratan@gmail.com**
+- 📫 How to reach me **rasel.m.ratan@gmail.com, https://wa.me/+8801712295252**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
