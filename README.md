@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rasel Mahmud Ratan</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
+<img src="https://private-user-images.githubusercontent.com/34422532/387369342-445e2abb-dff5-4198-8368-bf92c4165efe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE5NjA4NjMsIm5iZiI6MTczMTk2MDU2MywicGF0aCI6Ii8zNDQyMjUzMi8zODczNjkzNDItNDQ1ZTJhYmItZGZmNS00MTk4LTgzNjgtYmY5MmM0MTY1ZWZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE4VDIwMDkyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkYmJiZmI4ZTQ1MWM4Yjg4ZmNjZWI4ODc5ZDlhZGJkNWYzZTIxMzNlMWYzMTVlYzNkYmE2OGE2Zjg1OTdiNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wH2r54Pqf70XbYHc94-pXVO2mbM5eM4KjLG0VHeDLaA" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselratan&label=Profile%20views&color=0e75b6&style=flat" alt="raselratan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raselratan" alt="raselratan" /></a> </p>
