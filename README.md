@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasel Mahmud Ratan</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-<img src="https://private-user-images.githubusercontent.com/34422532/387374797-99ac4335-08c4-4ceb-88f5-dd51cfe12646.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE5NjE1NDgsIm5iZiI6MTczMTk2MTI0OCwicGF0aCI6Ii8zNDQyMjUzMi8zODczNzQ3OTctOTlhYzQzMzUtMDhjNC00Y2ViLTg4ZjUtZGQ1MWNmZTEyNjQ2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE4VDIwMjA0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0ZTJlMDYzOTlhMWI2ODRiYTg3N2Q0NWM5Mjc0ZDg1MDk3YWVkNzFkZDgwZmVhZmM5MjZmMTdkNTRjYmEyZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OY4BHyVQMKAWkFy_Z8wJclvFAx7hNohlcWqU4sCxKfs" />
+![rsz_1rsz_orange_black_simple_digital_marketing_agency_outdoor_banner_landscape_1](https://github.com/user-attachments/assets/0de56b0f-acda-4ca0-a1c7-24a45281d37b)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselratan&label=Profile%20views&color=0e75b6&style=flat" alt="raselratan" /> </p>
 
